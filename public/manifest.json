@@ -1,0 +1,33 @@
+{
+  "short_name": "Educade",
+  "name": "Educade",
+  "icons": [
+    {
+      "src": "educade_logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "educade_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "educade_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "educade_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#141e25",
+  "background_color": "#141e25",
+  "description": "Play to Learn",
+  "screenshots": ["educade_logo.png"]
+}
